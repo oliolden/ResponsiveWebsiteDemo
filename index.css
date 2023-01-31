@@ -24,6 +24,7 @@ body {
     width: 100vw;
     background-color: #ffffff44;
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     display: grid;
     place-content: center;
     margin: 0 0;
